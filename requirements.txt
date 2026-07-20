@@ -8,5 +8,6 @@ python-dotenv
 pandas
 pypdf
 
+sentence-transformers
 
-
+chromadb
