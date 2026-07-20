@@ -1,0 +1,101 @@
+Reg,Route,Start,End,BusName,Type,Seats,SeatType,MinFare,AddStopFare,Facilities,Stops,Departure,Arrival,TravelTime
+TN31 AB 1001,R001,Chennai,Coimbatore,Southern Express,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1002,R002,Chennai,Madurai,Cauvery Cruiser,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1003,R003,Chennai,Tirunelveli,Marina Star,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1004,R004,Coimbatore,Madurai,Western Voyager,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1005,R005,Trichy,Coimbatore,Royal Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1006,R006,Chennai,Coimbatore,Blue Horizon,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1007,R007,Chennai,Madurai,Emerald Coach,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1008,R008,Chennai,Tirunelveli,Skyline Express,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1009,R009,Coimbatore,Madurai,Temple Runner,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1010,R010,Trichy,Coimbatore,Highway King,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1011,R011,Chennai,Coimbatore,Lotus Travels,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1012,R012,Chennai,Madurai,Golden Arrow,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1013,R013,Chennai,Tirunelveli,Velan Express,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1014,R014,Coimbatore,Madurai,Pearl Cruiser,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1015,R015,Trichy,Coimbatore,Sunrise Coach,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1016,R016,Chennai,Coimbatore,Metro Link,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1017,R017,Chennai,Madurai,Green Route,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1018,R018,Chennai,Tirunelveli,Riverline,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1019,R019,Coimbatore,Madurai,Heritage Express,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1020,R020,Trichy,Coimbatore,Elite Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1021,R021,Chennai,Coimbatore,Southern Express,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1022,R022,Chennai,Madurai,Cauvery Cruiser,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1023,R023,Chennai,Tirunelveli,Marina Star,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1024,R024,Coimbatore,Madurai,Western Voyager,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1025,R025,Trichy,Coimbatore,Royal Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1026,R026,Chennai,Coimbatore,Blue Horizon,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1027,R027,Chennai,Madurai,Emerald Coach,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1028,R028,Chennai,Tirunelveli,Skyline Express,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1029,R029,Coimbatore,Madurai,Temple Runner,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1030,R030,Trichy,Coimbatore,Highway King,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1031,R001,Chennai,Coimbatore,Lotus Travels,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1032,R002,Chennai,Madurai,Golden Arrow,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1033,R003,Chennai,Tirunelveli,Velan Express,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1034,R004,Coimbatore,Madurai,Pearl Cruiser,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1035,R005,Trichy,Coimbatore,Sunrise Coach,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1036,R006,Chennai,Coimbatore,Metro Link,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1037,R007,Chennai,Madurai,Green Route,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1038,R008,Chennai,Tirunelveli,Riverline,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1039,R009,Coimbatore,Madurai,Heritage Express,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1040,R010,Trichy,Coimbatore,Elite Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1041,R011,Chennai,Coimbatore,Southern Express,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1042,R012,Chennai,Madurai,Cauvery Cruiser,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1043,R013,Chennai,Tirunelveli,Marina Star,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1044,R014,Coimbatore,Madurai,Western Voyager,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1045,R015,Trichy,Coimbatore,Royal Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1046,R016,Chennai,Coimbatore,Blue Horizon,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1047,R017,Chennai,Madurai,Emerald Coach,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1048,R018,Chennai,Tirunelveli,Skyline Express,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1049,R019,Coimbatore,Madurai,Temple Runner,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1050,R020,Trichy,Coimbatore,Highway King,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1051,R021,Chennai,Coimbatore,Lotus Travels,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1052,R022,Chennai,Madurai,Golden Arrow,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1053,R023,Chennai,Tirunelveli,Velan Express,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1054,R024,Coimbatore,Madurai,Pearl Cruiser,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1055,R025,Trichy,Coimbatore,Sunrise Coach,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1056,R026,Chennai,Coimbatore,Metro Link,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1057,R027,Chennai,Madurai,Green Route,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1058,R028,Chennai,Tirunelveli,Riverline,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1059,R029,Coimbatore,Madurai,Heritage Express,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1060,R030,Trichy,Coimbatore,Elite Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1061,R001,Chennai,Coimbatore,Southern Express,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1062,R002,Chennai,Madurai,Cauvery Cruiser,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1063,R003,Chennai,Tirunelveli,Marina Star,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1064,R004,Coimbatore,Madurai,Western Voyager,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1065,R005,Trichy,Coimbatore,Royal Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1066,R006,Chennai,Coimbatore,Blue Horizon,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1067,R007,Chennai,Madurai,Emerald Coach,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1068,R008,Chennai,Tirunelveli,Skyline Express,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1069,R009,Coimbatore,Madurai,Temple Runner,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1070,R010,Trichy,Coimbatore,Highway King,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1071,R011,Chennai,Coimbatore,Lotus Travels,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1072,R012,Chennai,Madurai,Golden Arrow,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1073,R013,Chennai,Tirunelveli,Velan Express,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1074,R014,Coimbatore,Madurai,Pearl Cruiser,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1075,R015,Trichy,Coimbatore,Sunrise Coach,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1076,R016,Chennai,Coimbatore,Metro Link,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1077,R017,Chennai,Madurai,Green Route,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1078,R018,Chennai,Tirunelveli,Riverline,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1079,R019,Coimbatore,Madurai,Heritage Express,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1080,R020,Trichy,Coimbatore,Elite Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1081,R021,Chennai,Coimbatore,Southern Express,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1082,R022,Chennai,Madurai,Cauvery Cruiser,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1083,R023,Chennai,Tirunelveli,Marina Star,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1084,R024,Coimbatore,Madurai,Western Voyager,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1085,R025,Trichy,Coimbatore,Royal Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1086,R026,Chennai,Coimbatore,Blue Horizon,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1087,R027,Chennai,Madurai,Emerald Coach,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1088,R028,Chennai,Tirunelveli,Skyline Express,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1089,R029,Coimbatore,Madurai,Temple Runner,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1090,R030,Trichy,Coimbatore,Highway King,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN31 AB 1091,R001,Chennai,Coimbatore,Lotus Travels,Ordinary,48,Seats,75,50,GPS,"Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN32 AB 1092,R002,Chennai,Madurai,Golden Arrow,Express,54,Seats,80,55,"GPS, Charger","Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN33 AB 1093,R003,Chennai,Tirunelveli,Velan Express,Deluxe,36,Berth,85,60,GPS,"Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN34 AB 1094,R004,Coimbatore,Madurai,Pearl Cruiser,Non-AC Seater,40,Seats,90,65,GPS,"Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN35 AB 1095,R005,Trichy,Coimbatore,Sunrise Coach,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m
+TN36 AB 1096,R006,Chennai,Coimbatore,Metro Link,Ordinary,48,Seats,75,50,"GPS, Charger","Sriperumbudur, Vellore, Ambur, Krishnagiri, Dharmapuri, Salem, Bhavani, Perundurai, Avinashi",05:00,13:00,8h 00m
+TN37 AB 1097,R007,Chennai,Madurai,Green Route,Express,54,Seats,80,55,GPS,"Chengalpattu, Tindivanam, Villupuram, Ulundurpet, Perambalur, Trichy, Manapparai, Dindigul",04:30,12:30,8h 00m
+TN38 AB 1098,R008,Chennai,Tirunelveli,Riverline,Deluxe,36,Berth,85,60,"GPS, Charger","Chengalpattu, Villupuram, Trichy, Dindigul, Virudhunagar, Kovilpatti, Kayathar",06:00,17:00,11h 00m
+TN39 AB 1099,R009,Coimbatore,Madurai,Heritage Express,Non-AC Seater,40,Seats,90,65,"GPS, Charger","Pollachi, Udumalpet, Palani, Oddanchatram, Dindigul",05:30,10:30,5h 00m
+TN30 AB 1100,R010,Trichy,Coimbatore,Elite Transit,AC Sleeper,30,Berth,100,75,"GPS, Charger, Toilet, WiFi","Karur, Kodumudi, Erode, Perundurai, Avinashi",06:00,10:30,4h 30m

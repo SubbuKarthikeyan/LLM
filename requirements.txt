@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+
+litellm==1.82.6
+
+python-dotenv
+
+pandas
+pypdf
+
+
+
