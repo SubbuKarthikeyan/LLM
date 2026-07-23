@@ -4,7 +4,7 @@ retriever = Retriever()
 
 #question = "Bus from Chennai to Madurai"
 #question = "Which buses have AC Sleeper?"
-question = "What is the fare from Madurai to Trichy?"
+#question = "What is the fare from Madurai to Trichy?"
 
 results = retriever.retrieve(question)
 

@@ -55,6 +55,7 @@ def stream_generator(message: str):
     print("=" * 50)
     print("Streaming request received")
     print(f"Message: {message}")
+    print("-" * 50)
 
     # Retrieve relevant chunks
     context = retriever.retrieve(message)
