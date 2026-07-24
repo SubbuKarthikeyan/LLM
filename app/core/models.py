@@ -8,7 +8,7 @@ MODELS = [
     },
     {
         "name": "Gemini",
-        "model": "gemini/gemini-2.5-flash",
+        "model": "gemini/gemini-2.0-flash",
         "api_key": settings.GEMINI_API_KEY
     }
 ]

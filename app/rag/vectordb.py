@@ -36,8 +36,12 @@ class VectorDB:
             include=["documents", "embeddings"]
         )
 
-
-        print("Collection cleared.")
-
-
-        
+    def clear(self):
+        try:
+            self.client.delete_collection("bus_routes")
+            self.collection = self.client.get_or_create_collection(
+                name="bus_routes"
+            )
+            print("Collection cleared.")
+        except Exception as e:
+            print("Failed to clear collection:", e)
